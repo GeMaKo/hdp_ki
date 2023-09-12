@@ -16,6 +16,7 @@ seaborn = "^0.12.2"
 nltk = "^3.8.1"
 missingno = "^0.5.2"
 plotly = "^5.16.1"
+folium = "^0.14.0"
 
 
 [build-system]
