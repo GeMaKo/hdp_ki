@@ -14,7 +14,7 @@ Open a terminal/shell
 
 `conda activate py311`
 
-`conda install jupyter matplotlib pandas scikit-learn seaborn nltk missingno plotly folium tensorflow`
+`conda install -c conda-forge jupyter matplotlib pandas scikit-learn seaborn nltk missingno plotly folium tensorflow`
 
 ## Clustering
 
